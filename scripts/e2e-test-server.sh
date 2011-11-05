@@ -3,6 +3,8 @@
 BASE_DIR=`dirname $0`
 PORT=9877
 
+$BASE_DIR/coffee.sh test/e2e
+
 echo "Starting JsTestDriver Server (http://code.google.com/p/js-test-driver/)"
 echo "Please open the following url and capture one or more browsers:"
 echo "http://localhost:$PORT"

@@ -7,3 +7,5 @@ build.xml
 .settings
 build
 *~
+test/e2e/scenarios.js
+test/unit/controllersSpec.js

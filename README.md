@@ -23,6 +23,9 @@ teaching a single aspect of angular.
 ### Java
 - http://www.java.com
 
+### CoffeeScript
+- http://coffeescript.org/
+
 # Workings of the application
 
 - The application filesystem layout structure is based on the [angular-seed] project.

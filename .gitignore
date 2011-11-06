@@ -5,3 +5,8 @@ build.xml
 
 .project
 .settings
+build
+*~
+test/e2e/*.js
+test/unit/*.js
+app/js/*.js
